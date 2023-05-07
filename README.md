@@ -43,3 +43,14 @@ Cost function with Binary Cross Entropy
   - https://www.kaggle.com/uciml/pima-indians-diabetes-database
   - Klik download to get csv file of pima indians diabetes datasets
   - Open the diabetes.csv and delete first row (Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPerdigreeFunction, Age, Outcome)
+
+
+
+Tool Interaktif untuk python
+
+1. Jupyter Notebook
+2. Google Colab
+3. IBM Watson Studio
+
+1. Install Library
+    - pip install pandas
